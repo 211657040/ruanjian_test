@@ -1,3 +1,5 @@
 # ruanjian_test
-内容0\n
-aaabb
+内容0  
+aaabb\
+cxz
+tt
